@@ -161,3 +161,4 @@ cython_debug/
 
 _venv
 magiczna_kula.cmd
+.idea
